@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Where you can find me?
+
+- [Mastodon](https://toot.krivokuca.dev/@casastorta)
+- [Personal Blog](https://krivokuca.dev/)
+
 <!--
 **casastorta/casastorta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
