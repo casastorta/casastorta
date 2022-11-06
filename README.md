@@ -2,7 +2,7 @@
 
 ## Where you can find me?
 
-- <a href="https://toot.krivokuca.dev/@casastorta" rel="me">Mastodon</a>
+- <a href="https://toot.krivokuca.dev/@casastorta" rel="nofollow me">Mastodon</a>
 - [Personal Blog](https://krivokuca.dev/)
 
 <!--
